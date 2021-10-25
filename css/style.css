@@ -112,16 +112,8 @@ section .main button {
 
 .other {
     position: relative;
-    background-image: url(/images/05.jpg);
     height: 50vh;
-    background-size: cover;
-    background-position: center;
-}
-.other .overlay {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, .8);
+    background-color: #24252d; 
 }
 .other .content {
     position: absolute;

@@ -2,3 +2,4 @@
 ## A responsive HTML&amp;CSS Template
 ### Design from: https://www.graphberry.com/
 ### Images from: https://unsplash.com/
+### Icons from: https://fontawesome.com/
